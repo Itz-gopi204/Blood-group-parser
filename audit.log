@@ -1,0 +1,20 @@
+2025-02-10 21:49:10,157 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-10 21:49:10,157 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-10 21:49:10,159 - INFO -  * Restarting with stat
+2025-02-10 21:49:11,566 - WARNING -  * Debugger is active!
+2025-02-10 21:49:11,571 - INFO -  * Debugger PIN: 112-108-237
+2025-02-10 22:05:40,960 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-10 22:05:40,960 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-10 22:05:40,966 - INFO -  * Restarting with stat
+2025-02-10 22:05:42,412 - WARNING -  * Debugger is active!
+2025-02-10 22:05:42,417 - INFO -  * Debugger PIN: 112-108-237
+2025-02-10 22:06:10,343 - INFO - 127.0.0.1 - - [10/Feb/2025 22:06:10] "GET / HTTP/1.1" 200 -
+2025-02-10 22:06:10,584 - INFO - 127.0.0.1 - - [10/Feb/2025 22:06:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-10 22:06:25,041 - INFO - Request from 127.0.0.1 - POST /parse-report - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+2025-02-10 22:06:25,551 - INFO - 127.0.0.1 - - [10/Feb/2025 22:06:25] "[35m[1mPOST /parse-report HTTP/1.1[0m" 500 -
+2025-02-10 22:08:38,526 - INFO - 127.0.0.1 - - [10/Feb/2025 22:08:38] "[33mGET /predict HTTP/1.1[0m" 404 -
+2025-02-10 22:08:44,946 - INFO - 127.0.0.1 - - [10/Feb/2025 22:08:44] "GET / HTTP/1.1" 200 -
+2025-02-10 22:08:55,623 - INFO - Request from 127.0.0.1 - POST /parse-report - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+2025-02-10 22:08:55,649 - INFO - 127.0.0.1 - - [10/Feb/2025 22:08:55] "[35m[1mPOST /parse-report HTTP/1.1[0m" 500 -

@@ -1,0 +1,9 @@
+Flask
+opencv-python
+pytesseract
+pdf2image
+spacy
+python-dotenv
+cryptography
+setuptools
+
